@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   rush01.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahtuncay <ahtuncay@student.42kocaeli.com.  +#+  +:+       +#+        */
+/*   By: mustyilm <mustyilm@student.42kocaeli.com.  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/05 17:38:13 by ahtuncay          #+#    #+#             */
-/*   Updated: 2023/02/05 17:40:12 by ahtuncay         ###   ########.tr       */
+/*   Created: 2023/02/05 17:38:13 by mustyilm          #+#    #+#             */
+/*   Updated: 2023/02/05 17:40:12 by mustyilm         ###   ########.tr       */
 /*                                                                            */
 /* ************************************************************************** */
 
